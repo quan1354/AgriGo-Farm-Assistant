@@ -1,5 +1,5 @@
 ## 📋 Project Overview
-This project was developed as part of a student competition at Penang Science Cluster to create an intelligent Farm Assistant Robot. The robot autonomously navigates to different fruit farms, identifies crops, and counts harvest quantities using computer vision and smart navigation.
+As a mentor at **Penang Science Cluster**, I guided students in creating this **Farm Assistant** for their competition. The robot autonomously navigates to different fruit farms, identifies crops, and counts harvest quantities using computer vision and smart navigation.
 
 ## 🎯 Features
 - **Tag Recognition**: Uses HuskyLens to identify farm locations (ID 1-5)
