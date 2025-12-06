@@ -1,0 +1,13 @@
+📋 Project Overview
+This project was developed as part of a student competition at Penang Science Cluster to create an intelligent Farm Assistant Robot. The robot autonomously navigates to different fruit farms, identifies crops, and counts harvest quantities using computer vision and smart navigation.
+
+🎯 Features
+Tag Recognition: Uses HuskyLens to identify farm locations (ID 1-5)
+Object Classification: Counts different fruit types at each farm
+Autonomous Navigation: Robot moves between predefined farm stations
+Temperature Monitoring: Built-in DHT22 sensor for environmental sensing
+Visual Feedback: NeoPixel LED strip indicates temperature ranges
+LCD Display: Real-time status and fruit count display
+Obstacle Avoidance: Ultrasonic sensor for safe navigation
+
+![WhatsApp Image 2025-12-06 at 14 42 16_42e31473](https://github.com/user-attachments/assets/3b7a1034-f5c5-40b5-81a0-31dac0d23aaf)
