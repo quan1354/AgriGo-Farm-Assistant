@@ -4,10 +4,9 @@ As a mentor at **Penang Science Cluster**, I guided students in creating this **
 ## 🎯 Features
 - **Tag Recognition**: Uses HuskyLens to identify farm locations (ID 1-5)
 - **Object Classification**: Counts different fruit types at each farm
-- **Autonomous Navigation**: Robot moves between predefined farm stations
 - **Temperature Monitoring**: Built-in DHT22 sensor for environmental sensing
 - **Visual Feedback**: NeoPixel LED strip indicates temperature ranges
-- **LCD Display**: Real-time status and fruit count display
-- **Obstacle Avoidance**: Ultrasonic sensor for safe navigation
+- **LCD Display**: Display fruit count, movement and temperature information in real-time 
+- **Obstacle Avoidance**: Ultrasonic sensor to avoid car collision
 
 <img src="https://github.com/user-attachments/assets/3b7a1034-f5c5-40b5-81a0-31dac0d23aaf" alt="Farm Assistant Robot" width="500">
